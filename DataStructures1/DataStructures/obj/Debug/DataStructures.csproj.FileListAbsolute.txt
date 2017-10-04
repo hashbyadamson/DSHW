@@ -1,0 +1,35 @@
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\Hannah Adamson\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\Daniel Keele\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\Spencer\source\repos\DataStructuresDictionary\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\Spencer\source\repos\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\Hannah Adamson\source\repos\DataStructures1\DataStructures\obj\Debug\DataStructures.pdb
